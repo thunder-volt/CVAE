@@ -1,4 +1,4 @@
-# Enhanced Seismic Ground Motion Modelling with Conditional Variational Autoencoders
+![Picture1](https://github.com/user-attachments/assets/fe14948d-b3c0-4f88-9b25-e7d94de24739)
 
 ## Introduction
 The current research focuses on creating a Conditional Variational Autoencoder (CVAE) designed for encoding and reconstructing 5%-damped spectral acceleration. Unlike conventional approaches, this model integrates site-specificparameters related to the characteristics of the seismic source, propagation path, and site conditions, utilizing them as conditional inputs. The model is trained on an extensive dataset comprising 23,929 ground motion records from both horizontal and vertical directions, sourced from 325 shallow crustal events in the updated NGA-West2 database. The input parameters encompass moment magnitude, Joyner-Boore distance, focal mechanism, hypocentral depth, average shear-wave velocity up to 30 m depth. 
